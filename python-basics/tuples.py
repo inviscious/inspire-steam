@@ -1,6 +1,4 @@
-# Name : James Karuri
-# Date: 17/02/2026
-# Program to show tuples in python
+
 
 # Tuples of fruits
 
