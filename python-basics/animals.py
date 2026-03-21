@@ -1,5 +1,5 @@
 # Name : James Karuri
-# Date: 2302/2026
+# Date: 23/02/2026
 # Program to show inheritence in python
 
 class Animal():
